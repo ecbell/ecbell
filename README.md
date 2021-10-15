@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ecbell
-- 👀 I’m a beginner coder learning to code. 
-- 🌱 I’m currently learnining Ruby and Java!
+- 👀 I’m developing skills for full-stack development. 
+- 🌱 I’m currently learning Ruby on Rails, HTML, CSS, and Javascript!
 - 📫 How to reach me ...
 
 <!---
