@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 📬 Reach out to me at ebell691@gmail.com if you'd like to collaborate!
 
-🔗 Find me on LinkedIn!
+🔗 Find me on [LinkedIn](https://www.linkedin.com/in/emily-bell-062991/)!
 
