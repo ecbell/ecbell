@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 💬 Ask me about how my policy background contributes to software engineering!
 
-📬 Reach out to me at ebell691@gmail.com if you'd like to collaborate!
+📬 Reach out to me at ebell691@gmail.com!
 
 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/emily-bell-062991/)!
 
