@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 📬 Reach out to me at ebell691@gmail.com!
 
-🔗 Find me on [LinkedIn](https://www.linkedin.com/in/emily-bell-062991/)!
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/emily-bell-062991/)!
 
 
 [![Emily's github stats](https://github-readme-stats.vercel.app/api?username=ecbell)](https://github.com/ecbell/github-readme-stats)
