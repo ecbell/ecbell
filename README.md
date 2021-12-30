@@ -3,6 +3,8 @@ ecbell/ecbell is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+<h2>Hi, I'm Emily 👋 </h2>
+
 💻 I'm a full-stack developer who specializes in Javascript, React-Redux, and Ruby on Rails.
 
 👩‍💻 Check out my most recent project, Off the Beaten Path! It's a clone of Alltrails.com. It is a fully functional site where those looking to get outdoors can explore trails, including trail maps, and national parks. A search feature is also included
