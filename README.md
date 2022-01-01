@@ -3,7 +3,7 @@ ecbell/ecbell is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2>Hi, I'm Emily 👋 </h2>
+<h2>Hi there, I'm Emily 👋 </h2>
 
 💻 I'm a full-stack developer who specializes in Javascript, React-Redux, and Ruby on Rails.
 
